@@ -1,9 +1,6 @@
 ---
 title: C++ 面向对象编程笔记
-slug: cpp-object-oriented-programming-notes
-summary: 从类与对象、封装两层含义，到访问权限与成员属性私有化的企业写法，一份可直接对着敲的 C++ 面向对象入门笔记。
-description: 面向对象三大特性、类的设计与实例化、圆类与学生类两个完整案例、成员术语、public/protected/private 权限对比、struct 与 class 的唯一区别，以及把成员属性设为私有的读写控制实践。
----
+
 
 # 一、面向对象三大特性
 
